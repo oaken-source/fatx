@@ -1,0 +1,14 @@
+
+# make generated files
+*.mk
+*.cmd
+*.symvers
+*.ko
+*.mod.*
+*.o
+*.order
+.tmp_versions/
+
+# auxiliary directories
+/references/
+/test/
